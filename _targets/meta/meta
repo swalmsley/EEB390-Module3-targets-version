@@ -1,0 +1,8 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+d|stem|ceb73029c5597b19|77119125ee4c24ed|2c530c1562a7fbd1|-1341836259||t20740.899407249s|s40157b|40157|rds|local|vector|||0.005||
+m|stem|ceb73029c5597b19|77119125ee4c24ed|2c530c1562a7fbd1|588618952||t20740.8994075437s|s40157b|40157|rds|local|vector|||0.004||
+d_clean|stem|a2c0091551b906c1|ccbee5213299a51c|cbbad5f2ff53e2c0|-796944167||t20740.8994077663s|s40123b|40123|rds|local|vector|||0.001||
+make_murrelet_tilt_figure|function|0978eb68e1a7bf8c
+process_murrelet_data|function|257974360f3b5a7d
+save_figure|function|6a583255803edd87
+tilt_figure|stem|3bc9319063a4a2d8|9b114e92116ca420|ec80c87750cab845|1851270322||t20740.9013016151s|s83b|83|rds|local|vector|||0.698|Removed 1 row containing non-finite outside the scale range (`stat_smooth()`).. Removed 1 row containing missing values or values outside the scale range (`geom_point()`).|
